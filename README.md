@@ -9,4 +9,6 @@ Filipa Nóbrega, Eduardo Gomes, Harry Vasanth, Henrique Ferreira, Vanessa Cesár
 ### UMa Deployment
 http://www.cee.uma.pt/edu/gamedesign/MadFox/
 
+### GitHub Deployment
+https://harryvasanth.github.io/Explornesia/
 
